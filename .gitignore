@@ -1,0 +1,6 @@
+bin/*
+!bin/
+[Cc][Mm]ake*
+!CMakeLists.txt
+Makefile
+*.o
